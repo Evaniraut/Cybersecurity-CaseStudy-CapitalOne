@@ -23,4 +23,6 @@ This project analyzes the 2019 Capital One data breach, covering the causes, imp
 ## Key Learnings  
 - Insights into cybersecurity breaches and their impacts  
 - Understanding of ethical, legal, and social considerations in cybersecurity  
-- Skills in comprehensive report writing and critical analysis  
+- Skills in comprehensive report writing and critical analysis
+
+Thank you for reviewing this project!
