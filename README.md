@@ -18,7 +18,7 @@ This project analyzes the 2019 Capital One data breach, covering the causes, imp
 - Conclusion and personal reflections  
 
 ## Files in this Repo  
-- [EvaniRaut_23047473_CapitalOneDataBreach.pdf](https://github.com/Evaniraut/CapitalOneDataBreachProject/blob/main/EvaniRaut_23047473_CapitalOneDataBreach.pdf) — Full detailed report including analysis and reflections.
+[23047473 EvaniRaut.pdf](23047473%20EvaniRaut/23047473%20EvaniRaut.pdf) — Full detailed report including analysis and reflections.
 
 ## Key Learnings  
 - Insights into cybersecurity breaches and their impacts  
